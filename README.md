@@ -1,10 +1,5 @@
 # BGLS.jl
 
-[![CI](https://github.com/jvines/BGLS.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/jvines/BGLS.jl/actions/workflows/CI.yml)
-[![codecov](https://codecov.io/gh/jvines/BGLS.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/jvines/BGLS.jl)
-[![docs-stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://jvines.github.io/BGLS.jl/stable/)
-[![docs-dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://jvines.github.io/BGLS.jl/dev/)
-
 Bayesian Generalized Lomb-Scargle periodogram for Julia, implementing the
 methods of [Mortier et al. (2015)](https://doi.org/10.1051/0004-6361/201424908)
 and the stacked variant from [Mortier & Collier Cameron (2017)](https://doi.org/10.1051/0004-6361/201630092).
