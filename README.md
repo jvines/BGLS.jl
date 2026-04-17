@@ -1,4 +1,4 @@
-# BGLS.jl
+# BayesianGLS.jl
 
 Bayesian Generalized Lomb-Scargle periodogram for Julia, implementing the
 methods of [Mortier et al. (2015)](https://doi.org/10.1051/0004-6361/201424908)
@@ -15,13 +15,13 @@ and the stacked variant from [Mortier & Collier Cameron (2017)](https://doi.org/
 
 ```julia
 using Pkg
-Pkg.add("BGLS")
+Pkg.add("BayesianGLS")
 ```
 
 ## Quick Start
 
 ```julia
-using BGLS
+using BayesianGLS
 
 # Synthetic RV data
 t = sort(rand(100) .* 200.0)

@@ -1,5 +1,6 @@
 using Test
-using BGLS
+using BayesianGLS
+const BGLS = BayesianGLS
 using Random
 using Statistics: mean
 

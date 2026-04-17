@@ -1,4 +1,4 @@
-# BGLS.jl
+# BayesianGLS.jl
 
 Bayesian Generalized Lomb-Scargle periodogram for Julia.
 
@@ -10,7 +10,7 @@ and the stacked BGLS variant from
 ## Quick Start
 
 ```julia
-using BGLS
+using BayesianGLS
 
 # Observation data
 t = sort(rand(100) .* 200.0)

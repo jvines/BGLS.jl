@@ -1,4 +1,4 @@
-module BGLS
+module BayesianGLS
 
 using LinearAlgebra
 
@@ -12,4 +12,4 @@ export BGLSResult, SBGLSResult
 export frequencies, periods, power, best_frequency, best_period
 export obs_times
 
-end # module BGLS
+end # module BayesianGLS

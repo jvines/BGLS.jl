@@ -1,6 +1,6 @@
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
-BGLS = "6a71d6f6-17a4-4117-9054-433c146cbe9e"
+BayesianGLS = "6a71d6f6-17a4-4117-9054-433c146cbe9e"
 
 [compat]
 Documenter = "1"
