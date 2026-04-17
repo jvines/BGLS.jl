@@ -4,7 +4,7 @@ using LinearAlgebra
 
 include("types.jl")
 include("autofreq.jl")
-include("bgls.jl")
+include("bgls_core.jl")
 include("sbgls.jl")
 
 export bgls, bgls_auto, sbgls, sbgls_auto, autofrequencies
