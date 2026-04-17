@@ -1,7 +1,7 @@
 name = "BGLS"
 uuid = "6a71d6f6-17a4-4117-9054-433c146cbe9e"
 authors = ["Jose Vines <jose.vines@ug.uchile.cl>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
